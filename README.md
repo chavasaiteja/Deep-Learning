@@ -11,7 +11,7 @@ Built a neural network from scratch to carry out a prediction problem on Bike Sh
 
 ### 2. Dog Breed Classifier using CNN.
 
-Built a CNN to identify an estimate of Cannie's Breed. 
+Built a Convolutional Neural Network(CNN) to identify an estimate of Cannie's Breed. 
 
 ### 3. Generating TV Scripts using RNN.
 
@@ -23,5 +23,5 @@ Used generative adversarial networks to generate new images of faces.
 
 ### 5. Deploying a Sentiment Analysis Model using AWS SageMaker.
 
-Construct a recurrent neural network for the purpose of determining the sentiment of a movie review using the IMDB data set.  Amazon's SageMaker service was used to create this model. In addition, deployed model and constructed a simple web app which will interact with the deployed model.
+Constructed a recurrent neural network(RNN) for the purpose of determining the sentiment of a movie review using the IMDB data set.  Amazon's SageMaker service was used to create this model. In addition, deployed model and constructed a simple web app which will interact with the deployed model.
 
